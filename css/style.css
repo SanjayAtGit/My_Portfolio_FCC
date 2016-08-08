@@ -1,0 +1,116 @@
+#home {
+  text-align: center;
+  background: url(https://images5.alphacoders.com/676/676704.jpg)center center fixed;
+/*   background-size: cover; */
+  height: 900px; 
+}
+ 
+.row-home {
+  padding-top:100px;
+}
+.navbar{
+  margin-bottom: -20px;
+}
+
+.heading-1 {
+  color: #7077e2;
+  text-shadow: black 7px 7px 5px;
+  letter-spacing: 3px;
+/*   margin-top: 15%; */
+  font-size: 500%;
+/*   -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s; */
+}
+.heading-2 {
+  color: #DB7093;
+  text-shadow: black 7px 7px 5px;
+  letter-spacing: 3px;
+/*   margin-top: 15%; */
+  font-size: 500%;
+/*   -webkit-animation-duration: 1s; */
+/*   -moz-animation-duration: 1s; */
+}
+
+#about {
+/*   text-align: center; */
+  background: url(http://www.splendidwallpaper.com/wp-content/uploads/2010/03/toronto_1920x1080.jpg
+  ) center center fixed;
+  background-size: cover;
+  height: 900px;
+  color: #fff;
+/*   margin:-50px; */
+}
+
+.about-text {
+/*   margin-top: 50px; */
+  color: #FFEBCD;
+  text-shadow: black 2px 2px 3px;
+  font-size: 250%;
+  letter-spacing: 1.5px;
+}
+
+.row-about {
+  padding-top:200px;
+  padding-left:50px;
+}
+
+#about img{
+  margin-left:120px;
+  border-radius:50%;
+  opacity: 0.84;
+}
+
+
+#portfolio {
+/*   text-align: center; */
+  background: url(http://cdn.wallpapersafari.com/70/30/mQ19a5.jpg) center center fixed;
+  background-size: cover;
+  height: 900px;
+  color: #fff;
+  margin-top:-20px;
+}
+
+.row-portfolio img{
+  margin-left: 100px;
+}
+
+.row-portfolio h1 {
+  padding: 50px 0px;
+  color: #FFEBCD;
+  text-shadow: black 2px 2px 3px;
+  font-size: 250%;
+  letter-spacing: 1.5px;
+}
+
+
+#contact {
+/*   text-align: center; */
+  background: url(http://il3.picdn.net/shutterstock/videos/2755235/thumb/1.jpg
+  ) center center fixed;
+  background-size: cover;
+  height: 900px;
+  color: #fff;
+  margin-top:-20px;
+}
+
+.row-contact {
+  text-align: center;
+}
+
+.row-contact h1 {
+  padding: 200px 0px 100px 0px;
+  color: #FFEBCD;
+  text-shadow: black 2px 2px 3px;
+  font-size: 250%;
+  letter-spacing: 1.5px;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
